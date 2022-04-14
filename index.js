@@ -1,2 +1,2 @@
-const name = "Faith"
-console.log(name)
+const myName = "Faith"
+console.log(myName)
